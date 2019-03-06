@@ -1,2 +1,2 @@
-From k8s.gcr.io/kube-apiserver-amd64:v1.12.3
+From registry.access.redhat.com/rhel7/pod-infrastructure:latest
 
